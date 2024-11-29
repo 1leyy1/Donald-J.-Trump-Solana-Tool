@@ -93,7 +93,7 @@ Donations are appreciated! (in Solana)
 Contact
 </h1>
 <p>
-Feel free to contact me on Discord: 
+Feel free to contact me on Discord: https://discord.gg/QY3MPamwsB
 </p>
 
 <h1 align="left">
