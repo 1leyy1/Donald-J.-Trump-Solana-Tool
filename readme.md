@@ -1,4 +1,4 @@
-<h1>Donald J. Trump Solana Tool</h1>
+<h1 align="center">Donald J. Trump Solana Tool</h1>
 <p align="center">
 	The all-in-one tool to help you find profitable wallets on the Solana blockchain.
 </p><br>
